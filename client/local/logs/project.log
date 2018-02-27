@@ -1,0 +1,128 @@
+2018-02-26T14:41:55.226Z - normal: Load ~/.CocosCreator/settings.json
+2018-02-26T14:41:55.229Z - normal: checking language setting...
+2018-02-26T14:41:55.229Z - normal: Language: zh
+2018-02-26T14:41:56.003Z - success: protocol editor-framework registered
+2018-02-26T14:41:56.003Z - success: protocol app registered
+2018-02-26T14:41:56.003Z - success: protocol theme registered
+2018-02-26T14:41:56.003Z - success: protocol packages registered
+2018-02-26T14:41:56.004Z - success: protocol unpack registerred
+2018-02-26T14:41:56.004Z - success: protocol disable-commonjs registerred
+2018-02-26T14:41:56.257Z - normal: connected!
+2018-02-26T14:41:56.261Z - normal: Check project /Users/upbins/CodeProject/CreatorProject/doudizhu_workspace/client
+2018-02-26T14:41:56.272Z - normal: Initializing Cocos2d
+2018-02-26T14:41:56.505Z - normal: Initializing Asset Database
+2018-02-26T14:41:56.539Z - success: protocol uuid registerred
+2018-02-26T14:41:56.540Z - success: protocol db registerred
+2018-02-26T14:41:56.540Z - success: protocol thumbnail registerred
+2018-02-26T14:41:56.540Z - normal: Loading editor/builtin packages
+2018-02-26T14:41:56.564Z - success: anysdk loaded
+2018-02-26T14:41:56.691Z - success: assets loaded
+2018-02-26T14:41:56.695Z - success: builder loaded
+2018-02-26T14:41:56.697Z - success: cocos-analytics loaded
+2018-02-26T14:41:56.703Z - success: console loaded
+2018-02-26T14:41:56.708Z - success: hierarchy loaded
+2018-02-26T14:41:56.713Z - success: inspector loaded
+2018-02-26T14:41:56.715Z - success: keystore loaded
+2018-02-26T14:41:56.720Z - success: node-library loaded
+2018-02-26T14:41:56.722Z - success: package-asset loaded
+2018-02-26T14:41:56.725Z - success: preferences loaded
+2018-02-26T14:41:56.728Z - success: project-exporter loaded
+2018-02-26T14:41:56.747Z - success: project-importer loaded
+2018-02-26T14:41:56.750Z - success: project-settings loaded
+2018-02-26T14:41:56.754Z - success: ui-kit loaded
+2018-02-26T14:41:56.760Z - success: ui-grid loaded
+2018-02-26T14:41:56.765Z - success: scene loaded
+2018-02-26T14:41:56.766Z - success: sprite-editor loaded
+2018-02-26T14:41:56.771Z - success: store loaded
+2018-02-26T14:41:56.778Z - success: timeline loaded
+2018-02-26T14:41:56.778Z - normal: Loading builtin packages
+2018-02-26T14:41:56.782Z - success: asset-db-debugger loaded
+2018-02-26T14:41:56.783Z - success: color-picker loaded
+2018-02-26T14:41:56.787Z - success: package-manager loaded
+2018-02-26T14:41:56.792Z - success: sdkbox loaded
+2018-02-26T14:41:56.796Z - success: tester loaded
+2018-02-26T14:41:56.803Z - success: ui-kit-preview-extra loaded
+2018-02-26T14:41:56.807Z - success: ui-kit-preview loaded
+2018-02-26T14:41:56.811Z - success: ui-tree loaded
+2018-02-26T14:41:57.883Z - normal: Initializing project /Users/upbins/CodeProject/CreatorProject/doudizhu_workspace/client
+2018-02-26T14:41:57.886Z - normal: Loading packages
+2018-02-26T14:41:57.891Z - normal: Watching packages
+2018-02-26T14:41:57.903Z - normal: Run Application
+2018-02-26T14:41:58.357Z - success: preview server running at http://localhost:7456
+2018-02-26T14:42:02.973Z - normal: 1.8.0
+2018-02-26T15:00:44.537Z - normal: Simulator: WORKAREA WIDTH 1400.00, HEIGHT 856.00
+2018-02-26T15:00:44.539Z - normal: Simulator: FRAME SCALE = 1.00
+2018-02-26T15:00:44.546Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-02-26T15:00:44.614Z - normal: Simulator: 
+2018-02-26T15:00:44.614Z - normal: Simulator: {
+2018-02-26T15:00:44.615Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-02-26T15:00:44.632Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-02-26T15:00:44.632Z - normal: Simulator: 	cocos2d.x.version: 1.7.0
+2018-02-26T15:00:44.633Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-02-26T15:00:44.633Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-02-26T15:00:44.633Z - normal: Simulator: 	gl.renderer: Intel Iris Pro OpenGL Engine
+2018-02-26T15:00:44.633Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-02-26T15:00:44.633Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-02-26T15:00:44.634Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-02-26T15:00:44.634Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-02-26T15:00:44.634Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-02-26T15:00:44.635Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-02-26T15:00:44.635Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-02-26T15:00:44.635Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-02-26T15:00:44.635Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-02-26T15:00:44.635Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.30.14
+2018-02-26T15:00:44.636Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-02-26T15:00:44.636Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-02-26T15:00:44.636Z - normal: Simulator: }
+2018-02-26T15:00:44.636Z - normal: Simulator: 
+2018-02-26T15:00:44.637Z - normal: Simulator: 
+2018-02-26T15:00:44.637Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-02-26T15:00:44.674Z - normal: Simulator: Project Config:
+2018-02-26T15:00:44.674Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-02-26T15:00:44.675Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-02-26T15:00:44.675Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-02-26T15:00:44.675Z - normal: Simulator:     frame size: 960 x 640
+2018-02-26T15:00:44.676Z - normal: Simulator:     frame scale: 1.00
+2018-02-26T15:00:44.676Z - normal: Simulator:     show console: NO
+2018-02-26T15:00:44.676Z - normal: Simulator:     write debug log: NO ()
+2018-02-26T15:00:44.676Z - normal: Simulator:     listen: 
+2018-02-26T15:00:44.676Z - normal: Simulator:     debugger: none
+2018-02-26T15:00:44.676Z - normal: Simulator:     add searching path:
+2018-02-26T15:00:44.677Z - normal: Simulator: ------------------------------------------------
+2018-02-26T15:00:44.677Z - normal: Simulator: LOAD Js FILE: main.js
+2018-02-26T15:00:44.677Z - normal: Simulator: ------------------------------------------------
+2018-02-26T15:00:44.678Z - normal: Simulator: Initializing JavaScriptCore 
+2018-02-26T15:00:44.781Z - normal: Simulator: JS: Cocos2d-x-lite v1.7.0
+2018-02-26T15:00:44.996Z - normal: Simulator: iShow!
+2018-02-26T15:00:45.247Z - normal: Simulator: JS: InitScene: 2.3350000000000364ms
+2018-02-26T15:00:45.248Z - normal: Simulator: JS: AutoRelease: 0.12199999999995725ms
+2018-02-26T15:00:45.248Z - normal: Simulator: JS: Destroy: 0.06700000000000728ms
+2018-02-26T15:00:45.248Z - normal: Simulator: JS: AttachPersist: 0.0029999999999290594ms
+2018-02-26T15:00:45.288Z - normal: Simulator: In the constructor of HttpClient!
+2018-02-26T15:00:45.300Z - normal: Simulator: JS: Activate: 43.65999999999997ms
+2018-02-26T15:00:46.495Z - normal: Simulator: XMLHttpRequest_finalize, 0x7f86764b9a00 ... 
+2018-02-26T15:00:46.495Z - normal: Simulator: XMLHttpRequest_finalize, 0x7f86766b8730 ... 
+2018-02-26T15:00:46.496Z - normal: Simulator: XMLHttpRequest_finalize, 0x7f86766b9230 ... 
+2018-02-26T15:00:46.496Z - normal: Simulator: XMLHttpRequest_finalize, 0x7f867675cdd0 ... 
+2018-02-26T15:00:46.496Z - normal: Simulator: XMLHttpRequest_finalize, 0x7f86766678e0 ... 
+2018-02-26T22:59:54.626Z - warn: [object Object]
+2018-02-27T01:16:03.585Z - normal: Simulator: Response failed, error buffer: 无法连接到服务器。
+2018-02-27T01:16:25.111Z - normal: Simulator: Response failed, error buffer: 无法连接到服务器。
+2018-02-27T01:16:50.132Z - normal: Simulator: Response failed, error buffer: 无法连接到服务器。
+2018-02-27T01:17:15.150Z - normal: Simulator: Response failed, error buffer: 无法连接到服务器。
+2018-02-27T01:17:19.239Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-02-27T01:17:19.239Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 52
+2018-02-27T01:17:19.251Z - normal: Simulator: XMLHttpRequest_finalize, 0x7f86767a6df0 ... 
+2018-02-27T01:17:19.251Z - normal: Simulator: XMLHttpRequest_finalize, 0x7f867645e0d0 ... 
+2018-02-27T01:17:19.252Z - normal: Simulator: XMLHttpRequest_finalize, 0x7f867645ed80 ... 
+2018-02-27T01:17:19.252Z - normal: Simulator: XMLHttpRequest_finalize, 0x7f86765be0d0 ... 
+2018-02-27T01:17:19.253Z - normal: Simulator: XMLHttpRequest_finalize, 0x7f86765c1f10 ... 
+2018-02-27T01:17:19.253Z - normal: Simulator: XMLHttpRequest_finalize, 0x7f86767bfd30 ... 
+2018-02-27T01:17:19.253Z - normal: Simulator: XMLHttpRequest_finalize, 0x7f867675cd10 ... 
+2018-02-27T01:17:19.253Z - normal: Simulator: GC end ..., (Native -> JS map) count: 41
+2018-02-27T01:17:19.254Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 41
+2018-02-27T01:17:19.256Z - normal: Simulator: GC end ..., (Native -> JS map) count: 41
+2018-02-27T01:17:19.256Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 41
+2018-02-27T01:17:19.259Z - normal: Simulator: GC end ..., (Native -> JS map) count: 41
+2018-02-27T01:17:19.269Z - normal: Simulator: XMLHttpRequest_finalize, 0x7f8676711160 ... 
+2018-02-27T01:17:19.275Z - normal: Simulator: ScriptEngine::cleanup end ...
